@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on open source projects, and a PL position.
 - 📫 How to reach me:
-- <a href="https://www.linkedin.com/in/gabriel-de-jesus-lourenço-49053727/">Linkedin<a/>
+- <a href="https://www.linkedin.com/in/gabriel-de-jesus-lourenço-49053727/" target="_blank">Linkedin<a/>
 
   Alguns de meus trabalhos:<br/>
   Webapp: https://conversor-virid.vercel.app. <br/> Landing page: https://landing-page-omega-two-46.vercel.app.
