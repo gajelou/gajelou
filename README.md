@@ -6,7 +6,7 @@
 - <a href="https://www.linkedin.com/in/gabriel-de-jesus-lourenço-49053727/" target="_blank">My linkedin<a/>
 
   Alguns de meus trabalhos:<br/>
-  Webapp: https://conversor-virid.vercel.app. <br/> Landing page: https://landing-page-omega-two-46.vercel.app.
+  Webapp: [https://conversor-virid.vercel.app.](https://www.conversor.site) <br/> Landing page: https://landing-page-omega-two-46.vercel.app.
 
 <!---
 gajelou/gajelou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
