@@ -7,7 +7,7 @@
 
   Alguns de meus trabalhos:<br/><br/>
   Webapp: https://www.conversor.site <br/>
-    Conversor de moedas com cotações em tempo real, produzido com React, adsense integrado, SEO 100. webapp and domain to sell. <br/>   
+    Conversor de moedas com cotações em tempo real, produzido com React, adsense integrado, SEO 100. <br/>   
   Landing page: https://landing-page-omega-two-46.vercel.app.
 
 <!---
