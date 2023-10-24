@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gajelou, a new brazilian developer.
+- 👋 Hi, I’m @gajelou, a developer.
 - 👀 I’m interested in HTML, CSS, javascript(frameworks: Node, React, Next) and Java(spring).
 - 🌱 I’m currently working with OpenAI API backend integration with whatsapp and websites.
 - 💞️ I’m looking to collaborate on open source projects, and a PL position.
