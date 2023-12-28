@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gajelou, a developer.
-- 👀 I’m interested in HTML, CSS, javascript(frameworks: Node, Angular, Next, express; Lib:React), typescript and Java(spring).
+- 👀 I’m interested in javascript(frameworks: Node, Angular, Next, express; Lib:React), typescript, Java(spring), HTML, CSS.
 - Database SQL(MySQL) and NoSQL(Mongodb, firebase firestore).
 - 🌱 I’m currently working with OpenAI API backend integration with whatsapp and websites.
 - 💞️ I’m looking to collaborate on open source projects, and a PL position.
