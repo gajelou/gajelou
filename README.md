@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gajelou, a developer.
-- 👀 I’m interested in javascript(frameworks: Node(Nestjs, Express), Angular, Next, express; Lib:React), typescript, Java, python, HTML, CSS.
+- 👀 I’m interested in javascript:typescript[frameworks: Node(Nestjs, Express), Angular, Next; Lib:React], Java, python, HTML, CSS.
 - Database SQL(MySQL, Postgers) and NoSQL(Mongodb, firebase firestore).
 - 💞️ I’m looking to collaborate on open source projects, and a dev position.
 - 📫 How to reach me:
