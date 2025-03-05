@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gajelou, a developer.
 - 👀 I’m interested in javascript:typescript[frameworks: Node(Nestjs, Express), Angular, Next; Lib:React], Java, python, HTML, CSS.
-- Database SQL(MySQL, Postgers) and NoSQL(Mongodb, firebase firestore).
+- Database SQL(MySQL, Postgres) and NoSQL(Mongodb, firebase firestore).
 - 💞️ I’m looking to collaborate on open source projects, and a dev position.
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/gabriel-de-jesus-lourenço-49053727/" target="_blank">My linkedin<a/>
